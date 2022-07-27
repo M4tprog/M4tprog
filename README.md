@@ -12,7 +12,7 @@ Me aprimorando em desenvolvimento
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4tprog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4tprog&repo=devweekgit.github.io&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4tprog&repo=POKEDEX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/matheus-franceschini-80976a190/)
